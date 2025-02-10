@@ -7,10 +7,10 @@
 2. [***Анализ данных о продажах компьютерных игр:***](https://github.com/MariaBeliaeva2025/data-analytics-practicum/tree/main/games_project)
     - анализ продаж в разные годы, выявление успешных закономерностей и продуктов для планирования рекламной кампании
     - python, pandas, matplotlib, seaborn, numpy, scipy
-3. ***Выпускной проект "Банки - Анализ оттока клиентов":***
+3. [***Выпускной проект "Банки - Анализ оттока клиентов":***](https://github.com/MariaBeliaeva2025/data-analytics-practicum/tree/main/final_project_banks)
     -  определение признаков отточности, формирование сегментов пользователей, рекомендации по наиболее значимым из них
     -  python, pandas, matplotlib, plotly, seaborn, numpy, scipy.
-6. ***Выпускной проект SQL:***
+6. [***Выпускной проект SQL:***](https://github.com/MariaBeliaeva2025/data-analytics-practicum/tree/main/final_SQL_project)
     - анализ базы данных сервиса для чтения книг по подписке для выбора стратегии развития бизнеса
     - python, SQL, pandas, sqlalchemy. 
 
