@@ -4,7 +4,7 @@
 1. [***Рынок заведений общественного питания Москвы:***](https://github.com/MariaBeliaeva2025/data-analytics-practicum/tree/main/moscow_cafes_project)
     - исследование рынка Москвы, его особенностей для выбора подходящего места для открытия нового заведения
     - python, pandas, matplotlib, seaborn, plotly, folium (Map, Choropleth, Marker)  
-2. [***Анализ данных о продажах компьютерных игр:***]()
+2. [***Анализ данных о продажах компьютерных игр:***](https://github.com/MariaBeliaeva2025/data-analytics-practicum/tree/main/games_project)
     - анализ продаж в разные годы, выявление успешных закономерностей и продуктов для планирования рекламной кампании
     - python, pandas, matplotlib, seaborn, numpy, scipy
 3. ***Выпускной проект "Банки - Анализ оттока клиентов":***
